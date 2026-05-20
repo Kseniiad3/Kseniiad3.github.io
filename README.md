@@ -137,9 +137,9 @@
     <section id="gallery">
         <h2>Галерея</h2>
         <div class="gallery">
-            <img src="https://unsplash.com" alt="Празький град">
-            <img src="https://unsplash.com" alt="Карлів міст">
-            <img src="https://unsplash.com" alt="Староміська площа">
+            <img src="https://picsum.photos" alt="Празький град">
+            <img src="https://picsum.photos" alt="Карлів міст">
+            <img src="https://picsum.photos" alt="Староміська площа">
         </div>
     </section>
 
