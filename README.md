@@ -138,8 +138,8 @@
         <h2>Галерея</h2>
         <div class="gallery">
             <img src="https://unsplash.com" alt="Празький град">
-            <img src="https://unsplash.com" alt="Карлів міст у Празі">
-            <img src="https://unsplash.com" alt="Староміська площа та Астрономічний годинник">
+            <img src="https://unsplash.com" alt="Карлів міст">
+            <img src="https://unsplash.com" alt="Староміська площа">
         </div>
     </section>
 
